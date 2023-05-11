@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{179B13D5-9156-4DD9-9E18-A51F1983205A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RamazanApp", "..\RamazanApp\RamazanApp\RamazanApp.csproj", "{684E93C5-F8B7-4214-98E5-1ECC90ABDE68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{179B13D5-9156-4DD9-9E18-A51F1983205A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179B13D5-9156-4DD9-9E18-A51F1983205A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179B13D5-9156-4DD9-9E18-A51F1983205A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179B13D5-9156-4DD9-9E18-A51F1983205A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684E93C5-F8B7-4214-98E5-1ECC90ABDE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684E93C5-F8B7-4214-98E5-1ECC90ABDE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684E93C5-F8B7-4214-98E5-1ECC90ABDE68}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{684E93C5-F8B7-4214-98E5-1ECC90ABDE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684E93C5-F8B7-4214-98E5-1ECC90ABDE68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684E93C5-F8B7-4214-98E5-1ECC90ABDE68}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1172AAD-30E4-41E5-B410-59A919DD8BD2}
+	EndGlobalSection
+EndGlobal
